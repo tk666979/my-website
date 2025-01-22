@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>แสดงภาพและเสียง</title>
+</head>
+<body>
+    <h1>นี่คือภาพและเสียง</h1>
+    <img src="https://drive.google.com/file/d/1oWW1MGb1QYvPpq7R4za6c_a3pRauKz8q/view?usp=sharing" alt="ภาพ" style="max-width:100%; height:auto;">
+    <audio controls autoplay>
+        <source src="https://drive.google.com/file/d/10bgJgEmcaroYh_XyatSfEJSLF0bY3qnw/view?usp=sharing" type="audio/mpeg">
+        เบราว์เซอร์ของคุณไม่รองรับไฟล์เสียง
+    </audio>
+</body>
+</html>
